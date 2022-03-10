@@ -1,4 +1,4 @@
-# gif-encoder-2
+# gif-encoder
 
 Encode GIFs with Node.js
 
@@ -19,7 +19,7 @@ Encode GIFs with Node.js
 ## Installation
 
 ```
-npm install gif-encoder-2
+npm install gif-encoder
 ```
 
 ## Overview
